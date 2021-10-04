@@ -26,7 +26,7 @@ function App() {
           <Route exact path="/" component={AllUsers} />
           <Route path="/add" component={AddUser} />
           <Route path="/edit/:id" component={EditUser} />
-          {/* <Route component={NotFound} /> */}
+          <Route component={NotFound} />
         </Switch>
         <CssBaseline />
       </div>

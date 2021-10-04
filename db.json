@@ -1,0 +1,60 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Bird Ramsey",
+      "email": "birdramsey@nimon.com",
+      "age": 23,
+      "gender": "male",
+      "company": "NIMON"
+    },
+    {
+      "id": 2,
+      "name": "Lillian Burgess",
+      "email": "lillianburgess@luxuria.com",
+      "age": 31,
+      "gender": "female",
+      "company": "CYBAGE"
+    },
+    {
+      "id": 3,
+      "name": "Kristie Cole",
+      "email": "kristiecole@quadeebo.com",
+      "age": 34,
+      "gender": "female",
+      "company": "QUADEEBO"
+    },
+    {
+      "id": 4,
+      "name": "Leonor Cross",
+      "email": "leonorcross@gronk.com",
+      "age": 30,
+      "gender": "female",
+      "company": "GRONK"
+    },
+    {
+      "id": 5,
+      "name": "Marsh Mccall",
+      "email": "marshmccall@ultrimax.com",
+      "age": 28,
+      "gender": "male",
+      "company": "Sambar"
+    },
+    {
+      "name": "Cyril Sibi",
+      "email": "cyril@cybage.com",
+      "age": 23,
+      "gender": "male",
+      "company": "CYBAGE",
+      "id": 6
+    },
+    {
+      "name": "asf",
+      "email": "sadf13@gmail.com",
+      "age": 123,
+      "gender": "M",
+      "company": ",",
+      "id": 7
+    }
+  ]
+}
